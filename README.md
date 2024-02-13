@@ -1,7 +1,7 @@
 
 # Detecting AI generated Essay
 
-The project revolves around the central theme of detecting the AI  generated essay. It is a kaggle competition that is still hosted in the kaggle platform. For the very same competition, i used GPT-2 for classification purpose. GPT-2 is a generational model but i used it for classification purpose. 
+The project revolves around the central theme of detecting the AI  generated essay. It was a kaggle competition that was hosted on the kaggle platform. For the very same competition, i used GPT-2 for classification purpose. GPT-2 is a generational model but i used it for classification purpose. 
 
 
 ## Dataset
